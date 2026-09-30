@@ -1,0 +1,26 @@
+[
+	{
+		"file": "T:\\GIT\\LookAtDemo\\Source\\LookAtDemo\\LookAtDemo.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@T:\\GIT\\LookAtDemo\\.vscode\\compileCommands_Default\\LookAtDemo.1.rsp"
+		],
+		"directory": "T:\\UnrealEngine\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "T:\\GIT\\LookAtDemo\\Source\\LookAtDemo\\LookAtDemo.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@T:\\GIT\\LookAtDemo\\.vscode\\compileCommands_Default\\LookAtDemo.1.rsp"
+		],
+		"directory": "T:\\UnrealEngine\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "T:\\GIT\\LookAtDemo\\Source\\LookAtDemo\\LookAtDemo.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@T:\\GIT\\LookAtDemo\\.vscode\\compileCommands_Default\\LookAtDemo.1.rsp"
+		],
+		"directory": "T:\\UnrealEngine\\UE_5.6\\Engine\\Source"
+	}
+]
